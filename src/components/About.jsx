@@ -43,7 +43,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Im a junior fullstack web developer, experienced with Html, CSS,
+        I'm a junior fullstack web developer, experienced with Html, CSS,
         Bootstrap, JavaScript, ReactJS, NodeJS, Tailwindcss and more! Lets work
         togther to bring your ideas to life!
       </motion.p>
